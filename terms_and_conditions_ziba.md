@@ -1,4 +1,3 @@
-
 # Terms and Conditions for Ziba
 
 **Last Updated:** April 9, 2025
