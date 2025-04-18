@@ -1,5 +1,3 @@
-Here's your Privacy Policy converted into clean and structured HTML:
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
