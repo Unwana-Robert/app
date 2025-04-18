@@ -101,6 +101,3 @@
   <p><strong>Email:</strong> <a href="mailto:princerobot.love@gmail.com">princerobot.love@gmail.com</a></p>
 </body>
 </html>
-
-Let me know if you'd like this as a downloadable .html file or need styling (CSS) added.
-
